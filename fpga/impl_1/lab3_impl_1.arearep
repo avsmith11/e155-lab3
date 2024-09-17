@@ -1,0 +1,75 @@
+----------------------------------------------------------------------
+Report for cell top.TECH
+Register bits:  62 of 5280 (1.174%)
+I/O cells:      18
+                                  Cell usage:
+                               cell     count   Res Usage(%)
+                               CCU2        22          100.0
+                            FD1P3XZ        62          100.0
+                         HSOSC_CORE         1          100.0
+                                 IB         5          100.0
+                              IOL_B         4          100.0
+                               LUT4        95          100.0
+                                 OB        13          100.0
+SUB MODULES
+                          debouncer         1
+                    dual_seg_driver         1
+                            scanner         1
+                        seg_encoder         1
+                     shift_register         1
+                           time_mux         1
+                              TOTAL       208
+----------------------------------------------------------------------
+Report for cell scanner.v1
+Instance Path : scanner_decoder
+                                  Cell usage:
+                               cell     count   Res Usage(%)
+                                FA2         6           27.3
+                            FD1P3XZ        18           29.0
+                               LUT4        39           41.1
+                              TOTAL        63
+----------------------------------------------------------------------
+Report for cell shift_register.v1
+Instance Path : SHIFT_REGISTER
+                                  Cell usage:
+                               cell     count   Res Usage(%)
+                            FD1P3XZ         8           12.9
+                               LUT4         5            5.3
+                              TOTAL        13
+----------------------------------------------------------------------
+Report for cell debouncer.v1
+Instance Path : debouncer
+                                  Cell usage:
+                               cell     count   Res Usage(%)
+                                FA2         8           36.4
+                            FD1P3XZ        17           27.4
+                               LUT4        29           30.5
+                              TOTAL        54
+----------------------------------------------------------------------
+Report for cell dual_seg_driver.v1
+Instance Path : dual_seg_driver
+                                  Cell usage:
+                               cell     count   Res Usage(%)
+                                FA2         8           36.4
+                            FD1P3XZ        15           24.2
+                               LUT4        19           20.0
+SUB MODULES
+                        seg_encoder         1
+                           time_mux         1
+                              TOTAL        44
+----------------------------------------------------------------------
+Report for cell time_mux.v1
+Instance Path : dual_seg_driver.time_mux
+                                  Cell usage:
+                               cell     count   Res Usage(%)
+                                FA2         8           36.4
+                            FD1P3XZ        15           24.2
+                               LUT4        12           12.6
+                              TOTAL        35
+----------------------------------------------------------------------
+Report for cell seg_encoder.v1
+Instance Path : dual_seg_driver.ONLY_ONE_SEGMENT_ENCODER
+                                  Cell usage:
+                               cell     count   Res Usage(%)
+                               LUT4         7            7.4
+                              TOTAL         7

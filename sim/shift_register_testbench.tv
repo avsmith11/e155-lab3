@@ -1,0 +1,16 @@
+// Avery Smith, avsmith@hmc.edu, 9/15/24
+// testvectors for shift_register_testbench
+// pulse, [3:0] deb_button
+0_0000
+1_0000
+0_0000
+1_1000
+0_1000
+1_1010
+0_1010
+1_1010
+0_1010
+0_1000
+1_0010
+1_1111
+1_1111

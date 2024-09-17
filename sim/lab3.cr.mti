@@ -1,0 +1,91 @@
+C:/Users/oaksh/Desktop/E155/lab3/source/dual_seg_driver_testbench.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/oaksh/Desktop/E155/lab3/source/dual_seg_driver_testbench.sv
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module dual_seg_driver_testbench
+
+Top level modules:
+	dual_seg_driver_testbench
+
+} {} {}} C:/Users/oaksh/Desktop/E155/lab3/source/debouncer.sv {2 {vlog -work work -vopt -sv -stats=none C:/Users/oaksh/Desktop/E155/lab3/source/debouncer.sv
+** Warning: (vlog-14) Failed to open "C:/Users/oaksh/Desktop/E155/lab3/sim/lab3.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module debouncer
+
+Top level modules:
+	debouncer
+
+} {} {}} C:/Users/oaksh/Desktop/E155/lab3/source/time_mux.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/oaksh/Desktop/E155/lab3/source/time_mux.sv
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module time_mux
+
+Top level modules:
+	time_mux
+
+} {} {}} C:/Users/oaksh/Desktop/E155/lab3/source/shift_register_testbench.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/oaksh/Desktop/E155/lab3/source/shift_register_testbench.sv
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module shift_register_testbench
+
+Top level modules:
+	shift_register_testbench
+
+} {} {}} C:/Users/oaksh/Desktop/E155/lab3/source/top_testbench.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/oaksh/Desktop/E155/lab3/source/top_testbench.sv
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module top_testbench
+
+Top level modules:
+	top_testbench
+
+} {} {}} C:/Users/oaksh/Desktop/E155/lab3/source/scanner.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/oaksh/Desktop/E155/lab3/source/scanner.sv
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module scanner
+
+Top level modules:
+	scanner
+
+} {} {}} C:/Users/oaksh/Desktop/E155/lab3/source/debouncer_testbench.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/oaksh/Desktop/E155/lab3/source/debouncer_testbench.sv
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module debouncer_testbench
+
+Top level modules:
+	debouncer_testbench
+
+} {} {}} C:/Users/oaksh/Desktop/E155/lab3/source/seg_encoder.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/oaksh/Desktop/E155/lab3/source/seg_encoder.sv
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module seg_encoder
+
+Top level modules:
+	seg_encoder
+
+} {} {}} C:/Users/oaksh/Desktop/E155/lab3/source/dual_seg_driver.sv {2 {vlog -work work -vopt -sv -stats=none C:/Users/oaksh/Desktop/E155/lab3/source/dual_seg_driver.sv
+** Warning: (vlog-14) Failed to open "C:/Users/oaksh/Desktop/E155/lab3/sim/lab3.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module dual_seg_driver
+
+Top level modules:
+	dual_seg_driver
+
+} {} {}} C:/Users/oaksh/Desktop/E155/lab3/source/scanner_testbench.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/oaksh/Desktop/E155/lab3/source/scanner_testbench.sv
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module scanner_testbench
+
+Top level modules:
+	scanner_testbench
+
+} {} {}} C:/Users/oaksh/Desktop/E155/lab3/source/shift_register.sv {2 {vlog -work work -vopt -sv -stats=none C:/Users/oaksh/Desktop/E155/lab3/source/shift_register.sv
+** Warning: (vlog-14) Failed to open "C:/Users/oaksh/Desktop/E155/lab3/sim/lab3.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module shift_register
+
+Top level modules:
+	shift_register
+
+} {} {}} C:/Users/oaksh/Desktop/E155/lab3/source/top.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/oaksh/Desktop/E155/lab3/source/top.sv
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}}
